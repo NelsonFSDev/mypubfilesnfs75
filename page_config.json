@@ -1,0 +1,35 @@
+{
+  "title": "Dynamic Page",
+  "widgets": [
+    {
+      "type": "text",
+      "data": "Hello, this is dynamic text!",
+      "style": {
+        "fontSize": 20,
+        "color": "#FF0000"
+      }
+    },
+    {
+      "type": "button",
+      "data": "Click me",
+      "action": "show_alert",
+      "alert_message": "You clicked the button!",
+      "style": {
+        "backgroundColor": "#00FF00",
+        "textColor": "#FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "url": "https://example.com/image.png",
+      "style": {
+        "width": 100,
+        "height": 100
+      }
+    }
+  ],
+  "layout": {
+    "type": "column",
+    "alignment": "center"
+  }
+}
