@@ -34,7 +34,17 @@
         "width": 100,
         "height": 100
       }
-    }
+    },
+    {
+      "type": "button",
+      "data": "Click me 2",
+      "action": "show_alert",
+      "alert_message": "You clicked 2 the button!",
+      "style": {
+        "backgroundColor": "#00FF00",
+        "textColor": "#FFFFFF"
+      }
+    }    
   ],
   "layout": {
     "type": "column",
