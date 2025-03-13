@@ -37,7 +37,7 @@
     },
     {
       "type": "button",
-      "data": "Click me 2",
+      "data": "Click me 4",
       "action": "show_alert",
       "alert_message": "You clicked 4 the button!",
       "style": {
