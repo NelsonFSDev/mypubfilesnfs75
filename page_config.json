@@ -36,7 +36,7 @@
         "backgroundColor": "#0000FF",
         "textColor": "#FFFF00"
       }
-    },    
+    }    
   ],
   "layout": {
     "type": "column",
