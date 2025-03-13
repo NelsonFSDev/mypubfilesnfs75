@@ -10,6 +10,14 @@
       }
     },
     {
+      "type": "text",
+      "data": "Added text!",
+      "style": {
+        "fontSize": 25,
+        "color": "#00FF00"
+      }
+    },
+    {
       "type": "button",
       "data": "Click me",
       "action": "show_alert",
@@ -26,17 +34,7 @@
         "width": 100,
         "height": 100
       }
-    },
-    {
-      "type": "button",
-      "data": "Other Click",
-      "action": "show_alert",
-      "alert_message": "You clicked on other button!",
-      "style": {
-        "backgroundColor": "#0000FF",
-        "textColor": "#FFFF00"
-      }
-    }    
+    }
   ],
   "layout": {
     "type": "column",
